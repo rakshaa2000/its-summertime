@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/its-summertime/static/css/main.936f17ae.chunk.css",
+    "main.js": "/its-summertime/static/js/main.fa5fdc39.chunk.js",
+    "main.js.map": "/its-summertime/static/js/main.fa5fdc39.chunk.js.map",
+    "runtime-main.js": "/its-summertime/static/js/runtime-main.b0beb192.js",
+    "runtime-main.js.map": "/its-summertime/static/js/runtime-main.b0beb192.js.map",
+    "static/js/2.7b7cda5f.chunk.js": "/its-summertime/static/js/2.7b7cda5f.chunk.js",
+    "static/js/2.7b7cda5f.chunk.js.map": "/its-summertime/static/js/2.7b7cda5f.chunk.js.map",
+    "static/js/3.ac1ab5e3.chunk.js": "/its-summertime/static/js/3.ac1ab5e3.chunk.js",
+    "static/js/3.ac1ab5e3.chunk.js.map": "/its-summertime/static/js/3.ac1ab5e3.chunk.js.map",
+    "index.html": "/its-summertime/index.html",
+    "static/css/main.936f17ae.chunk.css.map": "/its-summertime/static/css/main.936f17ae.chunk.css.map",
+    "static/js/2.7b7cda5f.chunk.js.LICENSE.txt": "/its-summertime/static/js/2.7b7cda5f.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/its-summertime/static/media/It's Summertime.d006414d.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b0beb192.js",
+    "static/js/2.7b7cda5f.chunk.js",
+    "static/css/main.936f17ae.chunk.css",
+    "static/js/main.fa5fdc39.chunk.js"
+  ]
+}
